@@ -1,0 +1,6 @@
+{
+  "name": "HadirKu — Sistem Absensi Karyawan",
+  "description": "Aplikasi web absensi kehadiran karyawan sederhana, cepat, dan akurat dengan rekapitulasi harian serta ekspor laporan CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
